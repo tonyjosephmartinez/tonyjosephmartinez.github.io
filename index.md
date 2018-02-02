@@ -4,7 +4,7 @@ layout: default
 
 
 
-# [](#header-1)Header 1
+# [](#header-1)About
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm an Automation Engineer working for USS POSCO Industries, a steel manufacturer in Pittsburg, CA. I develop full-stack ASP.NET core web applications that interface with production data and Android applications that are used in shipping, accounting, and operations.
 
