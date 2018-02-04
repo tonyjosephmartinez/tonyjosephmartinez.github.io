@@ -184,12 +184,12 @@ dt {
 
       a {
         color: white;
-        border: 1px solid #5d910b;
+        border: 1px solid grey;
         background: linear_gradient(#93bd20, #659e10);
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
-        background-color: #93bd20;
+        background-color:#537089;
         padding: 10px 12px;
         margin-top: 6px;
         line-height:14px;
@@ -199,8 +199,8 @@ dt {
 
         &:hover {
           background: linear_gradient(#749619, #527f0e);
-          background-color: #659e10;
-          border: 1px solid #527f0e;
+          background-color: #537089;
+          border: 1px solid grey;
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
         }
       }
@@ -208,6 +208,7 @@ dt {
       &.fork {
         float: left;
         margin-left: 0px;
+        margin-right: 10px;
       }
 
       &.downloads {
