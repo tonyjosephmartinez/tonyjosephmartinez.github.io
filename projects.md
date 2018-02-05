@@ -5,7 +5,7 @@ layout: default
 # [](#header-1)Personal/Freelance Projects
 <br>
 ## [](#header-2)[Salvation Army Concord Website](https://salvation-army-concord-tonyjosephmartinez.c9users.io:3000)
-Node.js website developed for the Salvation Army in concord. Uses Angular2, bootstrap, and Amazon SES for email.
+Node.js website developed for the Salvation Army in Concord, CA. Uses Angular2, Bootstrap, and Amazon SES for email.
 <br>
 ## [](#header-2)[BALLGOD Website](https://ballgod.ca)
 
@@ -20,4 +20,4 @@ ASP.Net Core internal web application using JsGrid to filter, sort, and perform 
 ASP.Net Core internal web application using JsPDF to format and display environmental data.
 <br>
 ## [](#header-2)Barcode/RFID Android Applications
-Android applications used to interface with barcode and RFID guns used in accouting, shipping, and operations.
+Android applications that interface with barcode and RFID guns used in accouting, shipping, and operations.
