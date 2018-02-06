@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Personal/Freelance Projects
 <br>
-## [](#header-2)[Salvation Army Concord Website](https://salvation-army-concord-tonyjosephmartinez.c9users.io:3000)
+## [](#header-2)[Salvation Army Concord Website](https://shielded-badlands-98115.herokuapp.com/pages/welcome)
 Node.js website developed for the Salvation Army in Concord, CA. Uses Angular2, Bootstrap, and Amazon SES for email.
 <br>
 ## [](#header-2)[BALLGOD Website](https://ballgod.ca)
