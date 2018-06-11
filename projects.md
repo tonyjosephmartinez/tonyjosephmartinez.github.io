@@ -6,10 +6,7 @@ layout: default
 <br>
 ## [](#header-2)[Salvation Army Concord Website](https://shielded-badlands-98115.herokuapp.com/pages/welcome)
 Node.js website developed for the Salvation Army in Concord, CA. Uses Angular2, Bootstrap, and Amazon SES for email.
-<br>
-## [](#header-2)[BALLGOD Website](https://ballgod.ca)
 
-Basketball blogging website made with WordPress.
 <br>&nbsp;<br>
 # [](#header-1)Work Projects
 <br>
