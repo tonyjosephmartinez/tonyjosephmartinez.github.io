@@ -15,7 +15,9 @@ Android applications that interface with barcode and RFID guns used in accouting
 
 <br>&nbsp;<br>
 
-# [](#header-1)Personal/Freelance Projects
+# [](#header-1)Personal Projects
+## [](#header-2)[23 vs. 23](https://23vs23.com)
+React web application for comparing NBA player stats. Uses MySportsFeeds stats API and React-Vis for data visualization.
 <br>
 ## [](#header-2)[Salvation Army Concord Website](https://shielded-badlands-98115.herokuapp.com/pages/welcome)
 Node.js website developed for the Salvation Army in Concord, CA. Uses Angular2, Bootstrap, and Amazon SES for email.
