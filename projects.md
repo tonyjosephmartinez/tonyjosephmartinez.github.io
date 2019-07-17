@@ -12,7 +12,6 @@ Blog built with ReactJs/GraphQL/Express/Mongo Db. Uses JWt/refresh token authent
 <br>&nbsp;<br>
 
 # [](#header-1)Work Projects
-<br>
 ## [](#header-2)Furnace Model Web Application
 ASP.Net Core internal web application using JsGrid to filter, sort, and perform CRUD operations on furnace setpoints for a galvanized steel finishing facility.
 <br>
@@ -20,7 +19,7 @@ ASP.Net Core internal web application using JsGrid to filter, sort, and perform 
 ASP.Net Core internal web application using JsPDF to format and display environmental data.
 <br>
 ## [](#header-2)Barcode/RFID Android Applications
-Android applications that interface with barcode and RFID guns used in accouting, shipping, and operations.
+Android applications that interface with barcode and RFID guns used in accounting, shipping, and operations.
 
 
 
